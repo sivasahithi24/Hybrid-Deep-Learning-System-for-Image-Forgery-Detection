@@ -85,7 +85,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Usage
+##  Usage
 
 1. Launch the app
 2. Upload an image
